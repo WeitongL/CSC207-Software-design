@@ -1,0 +1,5 @@
+* Zhaoyang Zhu: Zhaoyang's main duty was to write code regarding the replenishing process. 
+* Weitong Luo: Weitong did the sequencing and loading (Phase 1) parts.
+* Zhuoyi Hu: Zhuoyi was responsible for the loading (Phase 2) parts.
+* Bojian Zheng: Bojian is responsible for the "orders", "picking" phase (including source code and test cases). 
+	He also designed the shared.GlobalSystem and is responsible for merging the code that Weitong and Zhaoyang have written.
