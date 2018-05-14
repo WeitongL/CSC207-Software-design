@@ -1,0 +1,2 @@
+Request [list=[1, 2, 1, 2, 3, 4, 3, 4], state=COMPLETE, pvtThisId=0, pvtTraversalOrder=[4, 3, 4, 3, 2, 1, 2, 1]]
+Request [list=[9, 10, 9, 10, 11, 12, 11, 12], state=COMPLETE, pvtThisId=1, pvtTraversalOrder=[12, 11, 12, 11, 10, 9, 10, 9]]

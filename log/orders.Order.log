@@ -1,0 +1,16 @@
+Apr 05, 2017 11:38:20 AM orders.Order <init>
+INFO: A new SkuPair [pvtSkuFront=    1, pvtSkuBack=    2] has been created.
+Apr 05, 2017 11:38:20 AM orders.Order <init>
+INFO: A new SkuPair [pvtSkuFront=    1, pvtSkuBack=    2] has been created.
+Apr 05, 2017 11:38:20 AM orders.Order <init>
+INFO: A new SkuPair [pvtSkuFront=    3, pvtSkuBack=    4] has been created.
+Apr 05, 2017 11:38:20 AM orders.Order <init>
+INFO: A new SkuPair [pvtSkuFront=    3, pvtSkuBack=    4] has been created.
+Apr 05, 2017 11:38:20 AM orders.Order <init>
+INFO: A new SkuPair [pvtSkuFront=    9, pvtSkuBack=   10] has been created.
+Apr 05, 2017 11:38:20 AM orders.Order <init>
+INFO: A new SkuPair [pvtSkuFront=    9, pvtSkuBack=   10] has been created.
+Apr 05, 2017 11:38:20 AM orders.Order <init>
+INFO: A new SkuPair [pvtSkuFront=   11, pvtSkuBack=   12] has been created.
+Apr 05, 2017 11:38:20 AM orders.Order <init>
+INFO: A new SkuPair [pvtSkuFront=   11, pvtSkuBack=   12] has been created.

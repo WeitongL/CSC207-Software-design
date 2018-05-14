@@ -1,0 +1,192 @@
+Apr 05, 2017 11:38:20 AM warehouse.TraversalTable <init>
+INFO: Entry     1 w/ Location[SKU=    1, Zone=  A, Aisle=  0, Rack=  0, Level=  0, stock= 22] is added to the traversal table.
+Apr 05, 2017 11:38:20 AM warehouse.TraversalTable <init>
+INFO: Entry     2 w/ Location[SKU=    2, Zone=  A, Aisle=  0, Rack=  0, Level=  1, stock= 22] is added to the traversal table.
+Apr 05, 2017 11:38:20 AM warehouse.TraversalTable <init>
+INFO: Entry     3 w/ Location[SKU=    3, Zone=  A, Aisle=  0, Rack=  0, Level=  2, stock= 22] is added to the traversal table.
+Apr 05, 2017 11:38:20 AM warehouse.TraversalTable <init>
+INFO: Entry     4 w/ Location[SKU=    4, Zone=  A, Aisle=  0, Rack=  0, Level=  3, stock= 30] is added to the traversal table.
+Apr 05, 2017 11:38:20 AM warehouse.TraversalTable <init>
+INFO: Entry     5 w/ Location[SKU=    5, Zone=  A, Aisle=  0, Rack=  1, Level=  0, stock=  6] is added to the traversal table.
+Apr 05, 2017 11:38:20 AM warehouse.TraversalTable <init>
+INFO: Entry     6 w/ Location[SKU=    6, Zone=  A, Aisle=  0, Rack=  1, Level=  1, stock= 20] is added to the traversal table.
+Apr 05, 2017 11:38:20 AM warehouse.TraversalTable <init>
+INFO: Entry     7 w/ Location[SKU=    7, Zone=  A, Aisle=  0, Rack=  1, Level=  2, stock= 20] is added to the traversal table.
+Apr 05, 2017 11:38:20 AM warehouse.TraversalTable <init>
+INFO: Entry     8 w/ Location[SKU=    8, Zone=  A, Aisle=  0, Rack=  1, Level=  3, stock= 20] is added to the traversal table.
+Apr 05, 2017 11:38:20 AM warehouse.TraversalTable <init>
+INFO: Entry     9 w/ Location[SKU=    9, Zone=  A, Aisle=  0, Rack=  2, Level=  0, stock= 20] is added to the traversal table.
+Apr 05, 2017 11:38:20 AM warehouse.TraversalTable <init>
+INFO: Entry    10 w/ Location[SKU=   10, Zone=  A, Aisle=  0, Rack=  2, Level=  1, stock= 20] is added to the traversal table.
+Apr 05, 2017 11:38:20 AM warehouse.TraversalTable <init>
+INFO: Entry    11 w/ Location[SKU=   11, Zone=  A, Aisle=  0, Rack=  2, Level=  2, stock= 20] is added to the traversal table.
+Apr 05, 2017 11:38:20 AM warehouse.TraversalTable <init>
+INFO: Entry    12 w/ Location[SKU=   12, Zone=  A, Aisle=  0, Rack=  2, Level=  3, stock= 20] is added to the traversal table.
+Apr 05, 2017 11:38:20 AM warehouse.TraversalTable <init>
+INFO: Entry    13 w/ Location[SKU=   13, Zone=  A, Aisle=  1, Rack=  0, Level=  0, stock= 20] is added to the traversal table.
+Apr 05, 2017 11:38:20 AM warehouse.TraversalTable <init>
+INFO: Entry    14 w/ Location[SKU=   14, Zone=  A, Aisle=  1, Rack=  0, Level=  1, stock= 30] is added to the traversal table.
+Apr 05, 2017 11:38:20 AM warehouse.TraversalTable <init>
+INFO: Entry    15 w/ Location[SKU=   15, Zone=  A, Aisle=  1, Rack=  0, Level=  2, stock= 30] is added to the traversal table.
+Apr 05, 2017 11:38:20 AM warehouse.TraversalTable <init>
+INFO: Entry    16 w/ Location[SKU=   16, Zone=  A, Aisle=  1, Rack=  0, Level=  3, stock= 30] is added to the traversal table.
+Apr 05, 2017 11:38:20 AM warehouse.TraversalTable <init>
+INFO: Entry    17 w/ Location[SKU=   17, Zone=  A, Aisle=  1, Rack=  1, Level=  0, stock= 30] is added to the traversal table.
+Apr 05, 2017 11:38:20 AM warehouse.TraversalTable <init>
+INFO: Entry    18 w/ Location[SKU=   18, Zone=  A, Aisle=  1, Rack=  1, Level=  1, stock= 30] is added to the traversal table.
+Apr 05, 2017 11:38:20 AM warehouse.TraversalTable <init>
+INFO: Entry    19 w/ Location[SKU=   19, Zone=  A, Aisle=  1, Rack=  1, Level=  2, stock= 30] is added to the traversal table.
+Apr 05, 2017 11:38:20 AM warehouse.TraversalTable <init>
+INFO: Entry    20 w/ Location[SKU=   20, Zone=  A, Aisle=  1, Rack=  1, Level=  3, stock= 30] is added to the traversal table.
+Apr 05, 2017 11:38:20 AM warehouse.TraversalTable <init>
+INFO: Entry    21 w/ Location[SKU=   21, Zone=  A, Aisle=  1, Rack=  2, Level=  0, stock= 30] is added to the traversal table.
+Apr 05, 2017 11:38:20 AM warehouse.TraversalTable <init>
+INFO: Entry    22 w/ Location[SKU=   22, Zone=  A, Aisle=  1, Rack=  2, Level=  1, stock= 30] is added to the traversal table.
+Apr 05, 2017 11:38:20 AM warehouse.TraversalTable <init>
+INFO: Entry    23 w/ Location[SKU=   23, Zone=  A, Aisle=  1, Rack=  2, Level=  2, stock= 30] is added to the traversal table.
+Apr 05, 2017 11:38:20 AM warehouse.TraversalTable <init>
+INFO: Entry    24 w/ Location[SKU=   24, Zone=  A, Aisle=  1, Rack=  2, Level=  3, stock= 30] is added to the traversal table.
+Apr 05, 2017 11:38:20 AM warehouse.TraversalTable <init>
+INFO: Entry    25 w/ Location[SKU=   25, Zone=  B, Aisle=  0, Rack=  0, Level=  0, stock=  6] is added to the traversal table.
+Apr 05, 2017 11:38:20 AM warehouse.TraversalTable <init>
+INFO: Entry    26 w/ Location[SKU=   26, Zone=  B, Aisle=  0, Rack=  0, Level=  1, stock= 30] is added to the traversal table.
+Apr 05, 2017 11:38:20 AM warehouse.TraversalTable <init>
+INFO: Entry    27 w/ Location[SKU=   27, Zone=  B, Aisle=  0, Rack=  0, Level=  2, stock= 30] is added to the traversal table.
+Apr 05, 2017 11:38:20 AM warehouse.TraversalTable <init>
+INFO: Entry    28 w/ Location[SKU=   28, Zone=  B, Aisle=  0, Rack=  0, Level=  3, stock= 30] is added to the traversal table.
+Apr 05, 2017 11:38:20 AM warehouse.TraversalTable <init>
+INFO: Entry    29 w/ Location[SKU=   29, Zone=  B, Aisle=  0, Rack=  1, Level=  0, stock= 30] is added to the traversal table.
+Apr 05, 2017 11:38:20 AM warehouse.TraversalTable <init>
+INFO: Entry    30 w/ Location[SKU=   30, Zone=  B, Aisle=  0, Rack=  1, Level=  1, stock= 30] is added to the traversal table.
+Apr 05, 2017 11:38:20 AM warehouse.TraversalTable <init>
+INFO: Entry    31 w/ Location[SKU=   31, Zone=  B, Aisle=  0, Rack=  1, Level=  2, stock= 30] is added to the traversal table.
+Apr 05, 2017 11:38:20 AM warehouse.TraversalTable <init>
+INFO: Entry    32 w/ Location[SKU=   32, Zone=  B, Aisle=  0, Rack=  1, Level=  3, stock= 30] is added to the traversal table.
+Apr 05, 2017 11:38:20 AM warehouse.TraversalTable <init>
+INFO: Entry    33 w/ Location[SKU=   33, Zone=  B, Aisle=  0, Rack=  2, Level=  0, stock= 30] is added to the traversal table.
+Apr 05, 2017 11:38:20 AM warehouse.TraversalTable <init>
+INFO: Entry    34 w/ Location[SKU=   34, Zone=  B, Aisle=  0, Rack=  2, Level=  1, stock= 30] is added to the traversal table.
+Apr 05, 2017 11:38:20 AM warehouse.TraversalTable <init>
+INFO: Entry    35 w/ Location[SKU=   35, Zone=  B, Aisle=  0, Rack=  2, Level=  2, stock= 30] is added to the traversal table.
+Apr 05, 2017 11:38:20 AM warehouse.TraversalTable <init>
+INFO: Entry    36 w/ Location[SKU=   36, Zone=  B, Aisle=  0, Rack=  2, Level=  3, stock= 30] is added to the traversal table.
+Apr 05, 2017 11:38:20 AM warehouse.TraversalTable <init>
+INFO: Entry    37 w/ Location[SKU=   37, Zone=  B, Aisle=  1, Rack=  0, Level=  0, stock= 30] is added to the traversal table.
+Apr 05, 2017 11:38:20 AM warehouse.TraversalTable <init>
+INFO: Entry    38 w/ Location[SKU=   38, Zone=  B, Aisle=  1, Rack=  0, Level=  1, stock= 30] is added to the traversal table.
+Apr 05, 2017 11:38:20 AM warehouse.TraversalTable <init>
+INFO: Entry    39 w/ Location[SKU=   39, Zone=  B, Aisle=  1, Rack=  0, Level=  2, stock= 30] is added to the traversal table.
+Apr 05, 2017 11:38:20 AM warehouse.TraversalTable <init>
+INFO: Entry    40 w/ Location[SKU=   40, Zone=  B, Aisle=  1, Rack=  0, Level=  3, stock= 30] is added to the traversal table.
+Apr 05, 2017 11:38:20 AM warehouse.TraversalTable <init>
+INFO: Entry    41 w/ Location[SKU=   41, Zone=  B, Aisle=  1, Rack=  1, Level=  0, stock= 30] is added to the traversal table.
+Apr 05, 2017 11:38:20 AM warehouse.TraversalTable <init>
+INFO: Entry    42 w/ Location[SKU=   42, Zone=  B, Aisle=  1, Rack=  1, Level=  1, stock= 30] is added to the traversal table.
+Apr 05, 2017 11:38:20 AM warehouse.TraversalTable <init>
+INFO: Entry    43 w/ Location[SKU=   43, Zone=  B, Aisle=  1, Rack=  1, Level=  2, stock= 30] is added to the traversal table.
+Apr 05, 2017 11:38:20 AM warehouse.TraversalTable <init>
+INFO: Entry    44 w/ Location[SKU=   44, Zone=  B, Aisle=  1, Rack=  1, Level=  3, stock= 30] is added to the traversal table.
+Apr 05, 2017 11:38:20 AM warehouse.TraversalTable <init>
+INFO: Entry    45 w/ Location[SKU=   45, Zone=  B, Aisle=  1, Rack=  2, Level=  0, stock= 30] is added to the traversal table.
+Apr 05, 2017 11:38:20 AM warehouse.TraversalTable <init>
+INFO: Entry    46 w/ Location[SKU=   46, Zone=  B, Aisle=  1, Rack=  2, Level=  1, stock= 30] is added to the traversal table.
+Apr 05, 2017 11:38:20 AM warehouse.TraversalTable <init>
+INFO: Entry    47 w/ Location[SKU=   47, Zone=  B, Aisle=  1, Rack=  2, Level=  2, stock= 30] is added to the traversal table.
+Apr 05, 2017 11:38:20 AM warehouse.TraversalTable <init>
+INFO: Entry    48 w/ Location[SKU=   48, Zone=  B, Aisle=  1, Rack=  2, Level=  3, stock= 30] is added to the traversal table.
+Apr 05, 2017 11:38:20 AM warehouse.TraversalTable <init>
+INFO: Entry    49 w/ Location[SKU=   49, Zone=  C, Aisle=  0, Rack=  0, Level=  0, stock= 30] is added to the traversal table.
+Apr 05, 2017 11:38:20 AM warehouse.TraversalTable <init>
+INFO: Entry    50 w/ Location[SKU=   50, Zone=  C, Aisle=  0, Rack=  0, Level=  1, stock= 30] is added to the traversal table.
+Apr 05, 2017 11:38:20 AM warehouse.TraversalTable <init>
+INFO: Entry    51 w/ Location[SKU=   51, Zone=  C, Aisle=  0, Rack=  0, Level=  2, stock= 30] is added to the traversal table.
+Apr 05, 2017 11:38:20 AM warehouse.TraversalTable <init>
+INFO: Entry    52 w/ Location[SKU=   52, Zone=  C, Aisle=  0, Rack=  0, Level=  3, stock= 30] is added to the traversal table.
+Apr 05, 2017 11:38:20 AM warehouse.TraversalTable <init>
+INFO: Entry    53 w/ Location[SKU=   53, Zone=  C, Aisle=  0, Rack=  1, Level=  0, stock= 30] is added to the traversal table.
+Apr 05, 2017 11:38:20 AM warehouse.TraversalTable <init>
+INFO: Entry    54 w/ Location[SKU=   54, Zone=  C, Aisle=  0, Rack=  1, Level=  1, stock= 30] is added to the traversal table.
+Apr 05, 2017 11:38:20 AM warehouse.TraversalTable <init>
+INFO: Entry    55 w/ Location[SKU=   55, Zone=  C, Aisle=  0, Rack=  1, Level=  2, stock= 30] is added to the traversal table.
+Apr 05, 2017 11:38:20 AM warehouse.TraversalTable <init>
+INFO: Entry    56 w/ Location[SKU=   56, Zone=  C, Aisle=  0, Rack=  1, Level=  3, stock= 30] is added to the traversal table.
+Apr 05, 2017 11:38:20 AM warehouse.TraversalTable <init>
+INFO: Entry    57 w/ Location[SKU=   57, Zone=  C, Aisle=  0, Rack=  2, Level=  0, stock= 30] is added to the traversal table.
+Apr 05, 2017 11:38:20 AM warehouse.TraversalTable <init>
+INFO: Entry    58 w/ Location[SKU=   58, Zone=  C, Aisle=  0, Rack=  2, Level=  1, stock= 30] is added to the traversal table.
+Apr 05, 2017 11:38:20 AM warehouse.TraversalTable <init>
+INFO: Entry    59 w/ Location[SKU=   59, Zone=  C, Aisle=  0, Rack=  2, Level=  2, stock= 30] is added to the traversal table.
+Apr 05, 2017 11:38:20 AM warehouse.TraversalTable <init>
+INFO: Entry    60 w/ Location[SKU=   60, Zone=  C, Aisle=  0, Rack=  2, Level=  3, stock= 30] is added to the traversal table.
+Apr 05, 2017 11:38:20 AM warehouse.TraversalTable <init>
+INFO: Entry    61 w/ Location[SKU=   61, Zone=  C, Aisle=  1, Rack=  0, Level=  0, stock= 30] is added to the traversal table.
+Apr 05, 2017 11:38:20 AM warehouse.TraversalTable <init>
+INFO: Entry    62 w/ Location[SKU=   62, Zone=  C, Aisle=  1, Rack=  0, Level=  1, stock= 30] is added to the traversal table.
+Apr 05, 2017 11:38:20 AM warehouse.TraversalTable <init>
+INFO: Entry    63 w/ Location[SKU=   63, Zone=  C, Aisle=  1, Rack=  0, Level=  2, stock= 30] is added to the traversal table.
+Apr 05, 2017 11:38:20 AM warehouse.TraversalTable <init>
+INFO: Entry    64 w/ Location[SKU=   64, Zone=  C, Aisle=  1, Rack=  0, Level=  3, stock= 30] is added to the traversal table.
+Apr 05, 2017 11:38:20 AM warehouse.TraversalTable <init>
+INFO: Entry    65 w/ Location[SKU=   65, Zone=  C, Aisle=  1, Rack=  1, Level=  0, stock= 30] is added to the traversal table.
+Apr 05, 2017 11:38:20 AM warehouse.TraversalTable <init>
+INFO: Entry    66 w/ Location[SKU=   66, Zone=  C, Aisle=  1, Rack=  1, Level=  1, stock= 30] is added to the traversal table.
+Apr 05, 2017 11:38:20 AM warehouse.TraversalTable <init>
+INFO: Entry    67 w/ Location[SKU=   67, Zone=  C, Aisle=  1, Rack=  1, Level=  2, stock= 30] is added to the traversal table.
+Apr 05, 2017 11:38:20 AM warehouse.TraversalTable <init>
+INFO: Entry    68 w/ Location[SKU=   68, Zone=  C, Aisle=  1, Rack=  1, Level=  3, stock= 30] is added to the traversal table.
+Apr 05, 2017 11:38:20 AM warehouse.TraversalTable <init>
+INFO: Entry    69 w/ Location[SKU=   69, Zone=  C, Aisle=  1, Rack=  2, Level=  0, stock= 30] is added to the traversal table.
+Apr 05, 2017 11:38:20 AM warehouse.TraversalTable <init>
+INFO: Entry    70 w/ Location[SKU=   70, Zone=  C, Aisle=  1, Rack=  2, Level=  1, stock= 30] is added to the traversal table.
+Apr 05, 2017 11:38:20 AM warehouse.TraversalTable <init>
+INFO: Entry    71 w/ Location[SKU=   71, Zone=  C, Aisle=  1, Rack=  2, Level=  2, stock= 30] is added to the traversal table.
+Apr 05, 2017 11:38:20 AM warehouse.TraversalTable <init>
+INFO: Entry    72 w/ Location[SKU=   72, Zone=  C, Aisle=  1, Rack=  2, Level=  3, stock= 30] is added to the traversal table.
+Apr 05, 2017 11:38:20 AM warehouse.TraversalTable <init>
+INFO: Entry    73 w/ Location[SKU=   73, Zone=  D, Aisle=  0, Rack=  0, Level=  0, stock= 30] is added to the traversal table.
+Apr 05, 2017 11:38:20 AM warehouse.TraversalTable <init>
+INFO: Entry    74 w/ Location[SKU=   74, Zone=  D, Aisle=  0, Rack=  0, Level=  1, stock= 30] is added to the traversal table.
+Apr 05, 2017 11:38:20 AM warehouse.TraversalTable <init>
+INFO: Entry    75 w/ Location[SKU=   75, Zone=  D, Aisle=  0, Rack=  0, Level=  2, stock= 30] is added to the traversal table.
+Apr 05, 2017 11:38:20 AM warehouse.TraversalTable <init>
+INFO: Entry    76 w/ Location[SKU=   76, Zone=  D, Aisle=  0, Rack=  0, Level=  3, stock= 30] is added to the traversal table.
+Apr 05, 2017 11:38:20 AM warehouse.TraversalTable <init>
+INFO: Entry    77 w/ Location[SKU=   77, Zone=  D, Aisle=  0, Rack=  1, Level=  0, stock= 30] is added to the traversal table.
+Apr 05, 2017 11:38:20 AM warehouse.TraversalTable <init>
+INFO: Entry    78 w/ Location[SKU=   78, Zone=  D, Aisle=  0, Rack=  1, Level=  1, stock= 30] is added to the traversal table.
+Apr 05, 2017 11:38:20 AM warehouse.TraversalTable <init>
+INFO: Entry    79 w/ Location[SKU=   79, Zone=  D, Aisle=  0, Rack=  1, Level=  2, stock= 30] is added to the traversal table.
+Apr 05, 2017 11:38:20 AM warehouse.TraversalTable <init>
+INFO: Entry    80 w/ Location[SKU=   80, Zone=  D, Aisle=  0, Rack=  1, Level=  3, stock= 30] is added to the traversal table.
+Apr 05, 2017 11:38:20 AM warehouse.TraversalTable <init>
+INFO: Entry    81 w/ Location[SKU=   81, Zone=  D, Aisle=  0, Rack=  2, Level=  0, stock= 30] is added to the traversal table.
+Apr 05, 2017 11:38:20 AM warehouse.TraversalTable <init>
+INFO: Entry    82 w/ Location[SKU=   82, Zone=  D, Aisle=  0, Rack=  2, Level=  1, stock= 30] is added to the traversal table.
+Apr 05, 2017 11:38:20 AM warehouse.TraversalTable <init>
+INFO: Entry    83 w/ Location[SKU=   83, Zone=  D, Aisle=  0, Rack=  2, Level=  2, stock= 30] is added to the traversal table.
+Apr 05, 2017 11:38:20 AM warehouse.TraversalTable <init>
+INFO: Entry    84 w/ Location[SKU=   84, Zone=  D, Aisle=  0, Rack=  2, Level=  3, stock= 30] is added to the traversal table.
+Apr 05, 2017 11:38:20 AM warehouse.TraversalTable <init>
+INFO: Entry    85 w/ Location[SKU=   85, Zone=  D, Aisle=  1, Rack=  0, Level=  0, stock= 30] is added to the traversal table.
+Apr 05, 2017 11:38:20 AM warehouse.TraversalTable <init>
+INFO: Entry    86 w/ Location[SKU=   86, Zone=  D, Aisle=  1, Rack=  0, Level=  1, stock= 30] is added to the traversal table.
+Apr 05, 2017 11:38:20 AM warehouse.TraversalTable <init>
+INFO: Entry    87 w/ Location[SKU=   87, Zone=  D, Aisle=  1, Rack=  0, Level=  2, stock= 30] is added to the traversal table.
+Apr 05, 2017 11:38:20 AM warehouse.TraversalTable <init>
+INFO: Entry    88 w/ Location[SKU=   88, Zone=  D, Aisle=  1, Rack=  0, Level=  3, stock= 30] is added to the traversal table.
+Apr 05, 2017 11:38:20 AM warehouse.TraversalTable <init>
+INFO: Entry    89 w/ Location[SKU=   89, Zone=  D, Aisle=  1, Rack=  1, Level=  0, stock= 30] is added to the traversal table.
+Apr 05, 2017 11:38:20 AM warehouse.TraversalTable <init>
+INFO: Entry    90 w/ Location[SKU=   90, Zone=  D, Aisle=  1, Rack=  1, Level=  1, stock= 30] is added to the traversal table.
+Apr 05, 2017 11:38:20 AM warehouse.TraversalTable <init>
+INFO: Entry    91 w/ Location[SKU=   91, Zone=  D, Aisle=  1, Rack=  1, Level=  2, stock= 30] is added to the traversal table.
+Apr 05, 2017 11:38:20 AM warehouse.TraversalTable <init>
+INFO: Entry    92 w/ Location[SKU=   92, Zone=  D, Aisle=  1, Rack=  1, Level=  3, stock= 30] is added to the traversal table.
+Apr 05, 2017 11:38:20 AM warehouse.TraversalTable <init>
+INFO: Entry    93 w/ Location[SKU=   93, Zone=  D, Aisle=  1, Rack=  2, Level=  0, stock= 30] is added to the traversal table.
+Apr 05, 2017 11:38:20 AM warehouse.TraversalTable <init>
+INFO: Entry    94 w/ Location[SKU=   94, Zone=  D, Aisle=  1, Rack=  2, Level=  1, stock= 30] is added to the traversal table.
+Apr 05, 2017 11:38:20 AM warehouse.TraversalTable <init>
+INFO: Entry    95 w/ Location[SKU=   95, Zone=  D, Aisle=  1, Rack=  2, Level=  2, stock= 30] is added to the traversal table.
+Apr 05, 2017 11:38:20 AM warehouse.TraversalTable <init>
+INFO: Entry    96 w/ Location[SKU=   96, Zone=  D, Aisle=  1, Rack=  2, Level=  3, stock= 30] is added to the traversal table.

@@ -1,0 +1,38 @@
+// The picker did not pick the fascia with the correct SKU.
+// Expect the system to tell the picker to pick the correct one.
+Order S White
+Order S White
+Order SE White
+Order SE White
+Picker Tommy ready
+Picker Tommy picks 9
+Picker Tommy picks 8
+Picker Tommy picks 4
+Picker Tommy picks 3
+Picker Tommy picks 4
+Picker Tommy picks 3
+Picker Tommy picks 2
+Picker Tommy picks 1
+Picker Tommy picks 2
+Picker Tommy picks 1
+Picker Tommy to Marshaling
+Sequencer Sue ready
+Sequencer Sue rescans
+Sequencer Sue sequences 1
+Sequencer Sue sequences 2
+Sequencer Sue sequences 1
+Sequencer Sue sequences 2
+Sequencer Sue sequences 3
+Sequencer Sue sequences 4
+Sequencer Sue sequences 3
+Sequencer Sue sequences 4
+Loader Jack ready
+Loader Jack rescans
+Loader Jack loads 1
+Loader Jack loads 2
+Loader Jack loads 1
+Loader Jack loads 2
+Loader Jack loads 3
+Loader Jack loads 4
+Loader Jack loads 3
+Loader Jack loads 4

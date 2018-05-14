@@ -1,0 +1,64 @@
+Apr 05, 2017 11:38:20 AM warehouse.Warehouse optimize
+INFO: The system suggested Location[SKU=    1, Zone=  A, Aisle=  0, Rack=  0, Level=  0, stock= 22] for SKU     1.
+Apr 05, 2017 11:38:20 AM warehouse.Warehouse optimize
+INFO: The system suggested Location[SKU=    2, Zone=  A, Aisle=  0, Rack=  0, Level=  1, stock= 22] for SKU     2.
+Apr 05, 2017 11:38:20 AM warehouse.Warehouse optimize
+INFO: The system suggested Location[SKU=    1, Zone=  A, Aisle=  0, Rack=  0, Level=  0, stock= 22] for SKU     1.
+Apr 05, 2017 11:38:20 AM warehouse.Warehouse optimize
+INFO: The system suggested Location[SKU=    2, Zone=  A, Aisle=  0, Rack=  0, Level=  1, stock= 22] for SKU     2.
+Apr 05, 2017 11:38:20 AM warehouse.Warehouse optimize
+INFO: The system suggested Location[SKU=    3, Zone=  A, Aisle=  0, Rack=  0, Level=  2, stock= 22] for SKU     3.
+Apr 05, 2017 11:38:20 AM warehouse.Warehouse optimize
+INFO: The system suggested Location[SKU=    4, Zone=  A, Aisle=  0, Rack=  0, Level=  3, stock= 30] for SKU     4.
+Apr 05, 2017 11:38:20 AM warehouse.Warehouse optimize
+INFO: The system suggested Location[SKU=    3, Zone=  A, Aisle=  0, Rack=  0, Level=  2, stock= 22] for SKU     3.
+Apr 05, 2017 11:38:20 AM warehouse.Warehouse optimize
+INFO: The system suggested Location[SKU=    4, Zone=  A, Aisle=  0, Rack=  0, Level=  3, stock= 30] for SKU     4.
+Apr 05, 2017 11:38:20 AM warehouse.Warehouse optimize
+INFO: The system suggested Location[SKU=    9, Zone=  A, Aisle=  0, Rack=  2, Level=  0, stock= 20] for SKU     9.
+Apr 05, 2017 11:38:20 AM warehouse.Warehouse optimize
+INFO: The system suggested Location[SKU=   10, Zone=  A, Aisle=  0, Rack=  2, Level=  1, stock= 20] for SKU    10.
+Apr 05, 2017 11:38:20 AM warehouse.Warehouse optimize
+INFO: The system suggested Location[SKU=    9, Zone=  A, Aisle=  0, Rack=  2, Level=  0, stock= 20] for SKU     9.
+Apr 05, 2017 11:38:20 AM warehouse.Warehouse optimize
+INFO: The system suggested Location[SKU=   10, Zone=  A, Aisle=  0, Rack=  2, Level=  1, stock= 20] for SKU    10.
+Apr 05, 2017 11:38:20 AM warehouse.Warehouse optimize
+INFO: The system suggested Location[SKU=   11, Zone=  A, Aisle=  0, Rack=  2, Level=  2, stock= 20] for SKU    11.
+Apr 05, 2017 11:38:20 AM warehouse.Warehouse optimize
+INFO: The system suggested Location[SKU=   12, Zone=  A, Aisle=  0, Rack=  2, Level=  3, stock= 20] for SKU    12.
+Apr 05, 2017 11:38:20 AM warehouse.Warehouse optimize
+INFO: The system suggested Location[SKU=   11, Zone=  A, Aisle=  0, Rack=  2, Level=  2, stock= 20] for SKU    11.
+Apr 05, 2017 11:38:20 AM warehouse.Warehouse optimize
+INFO: The system suggested Location[SKU=   12, Zone=  A, Aisle=  0, Rack=  2, Level=  3, stock= 20] for SKU    12.
+Apr 05, 2017 11:38:21 AM warehouse.Warehouse procPickReq
+INFO: Location[SKU=    4, Zone=  A, Aisle=  0, Rack=  0, Level=  3, stock= 30] should provide the supply per picking request.
+Apr 05, 2017 11:38:21 AM warehouse.Warehouse procPickReq
+INFO: Location[SKU=    3, Zone=  A, Aisle=  0, Rack=  0, Level=  2, stock= 22] should provide the supply per picking request.
+Apr 05, 2017 11:38:21 AM warehouse.Warehouse procPickReq
+INFO: Location[SKU=    4, Zone=  A, Aisle=  0, Rack=  0, Level=  3, stock= 29] should provide the supply per picking request.
+Apr 05, 2017 11:38:21 AM warehouse.Warehouse procPickReq
+INFO: Location[SKU=    3, Zone=  A, Aisle=  0, Rack=  0, Level=  2, stock= 21] should provide the supply per picking request.
+Apr 05, 2017 11:38:21 AM warehouse.Warehouse procPickReq
+INFO: Location[SKU=    2, Zone=  A, Aisle=  0, Rack=  0, Level=  1, stock= 22] should provide the supply per picking request.
+Apr 05, 2017 11:38:21 AM warehouse.Warehouse procPickReq
+INFO: Location[SKU=    1, Zone=  A, Aisle=  0, Rack=  0, Level=  0, stock= 22] should provide the supply per picking request.
+Apr 05, 2017 11:38:21 AM warehouse.Warehouse procPickReq
+INFO: Location[SKU=    2, Zone=  A, Aisle=  0, Rack=  0, Level=  1, stock= 21] should provide the supply per picking request.
+Apr 05, 2017 11:38:21 AM warehouse.Warehouse procPickReq
+INFO: Location[SKU=    1, Zone=  A, Aisle=  0, Rack=  0, Level=  0, stock= 21] should provide the supply per picking request.
+Apr 05, 2017 11:38:21 AM warehouse.Warehouse procPickReq
+INFO: Location[SKU=   12, Zone=  A, Aisle=  0, Rack=  2, Level=  3, stock= 20] should provide the supply per picking request.
+Apr 05, 2017 11:38:21 AM warehouse.Warehouse procPickReq
+INFO: Location[SKU=   11, Zone=  A, Aisle=  0, Rack=  2, Level=  2, stock= 20] should provide the supply per picking request.
+Apr 05, 2017 11:38:21 AM warehouse.Warehouse procPickReq
+INFO: Location[SKU=   12, Zone=  A, Aisle=  0, Rack=  2, Level=  3, stock= 19] should provide the supply per picking request.
+Apr 05, 2017 11:38:21 AM warehouse.Warehouse procPickReq
+INFO: Location[SKU=   11, Zone=  A, Aisle=  0, Rack=  2, Level=  2, stock= 19] should provide the supply per picking request.
+Apr 05, 2017 11:38:21 AM warehouse.Warehouse procPickReq
+INFO: Location[SKU=   10, Zone=  A, Aisle=  0, Rack=  2, Level=  1, stock= 20] should provide the supply per picking request.
+Apr 05, 2017 11:38:21 AM warehouse.Warehouse procPickReq
+INFO: Location[SKU=    9, Zone=  A, Aisle=  0, Rack=  2, Level=  0, stock= 20] should provide the supply per picking request.
+Apr 05, 2017 11:38:21 AM warehouse.Warehouse procPickReq
+INFO: Location[SKU=   10, Zone=  A, Aisle=  0, Rack=  2, Level=  1, stock= 19] should provide the supply per picking request.
+Apr 05, 2017 11:38:21 AM warehouse.Warehouse procPickReq
+INFO: Location[SKU=    9, Zone=  A, Aisle=  0, Rack=  2, Level=  0, stock= 19] should provide the supply per picking request.

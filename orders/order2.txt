@@ -1,0 +1,65 @@
+// 2 picking requests
+Order S White
+Order S White
+Order SE White
+Order SE White
+Order S Beige
+Order S Beige
+Order SE Beige
+Order SE Beige
+Picker Alice ready
+Picker Alice picks 4
+Picker Alice picks 3
+Picker Alice picks 4
+Picker Alice picks 3
+Picker Alice picks 2
+Picker Alice picks 1
+Picker Alice picks 2
+Picker Alice picks 1
+Picker Alice to Marshaling
+Picker Tommy ready
+Picker Tommy picks 12
+Picker Tommy picks 11
+Picker Tommy picks 12
+Picker Tommy picks 11
+Picker Tommy picks 10
+Picker Tommy picks 9
+Picker Tommy picks 10
+Picker Tommy picks 9
+Picker Tommy to Marshaling
+Sequencer Sue ready
+Sequencer Sue sequences 1
+Sequencer Sue sequences 2
+Sequencer Sue sequences 1
+Sequencer Sue sequences 2
+Sequencer Sue sequences 3
+Sequencer Sue sequences 4
+Sequencer Sue sequences 3
+Sequencer Sue sequences 4
+Loader Jack ready
+Loader Jack loads 1
+Loader Jack loads 2
+Loader Jack loads 1
+Loader Jack loads 2
+Loader Jack loads 3
+Loader Jack loads 4
+Loader Jack loads 3
+Loader Jack loads 4
+Sequencer Luo ready
+Sequencer Luo sequences 9
+Sequencer Luo sequences 10
+Sequencer Luo sequences 9
+Sequencer Luo sequences 10
+Sequencer Luo sequences 11
+Sequencer Luo sequences 12
+Sequencer Luo sequences 11
+Sequencer Luo sequences 12
+Loader Jack ready
+Loader Jack loads 9
+Loader Jack loads 10
+Loader Jack loads 9
+Loader Jack loads 10
+Loader Jack loads 11
+Loader Jack loads 12
+Loader Jack loads 11
+Loader Jack loads 12

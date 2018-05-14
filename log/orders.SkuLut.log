@@ -1,0 +1,96 @@
+Apr 05, 2017 11:38:20 AM orders.SkuLut <init>
+INFO: Entry ColorModelPair [pvtColor=     White, pvtModel=    S] w/ SKU pair SkuPair [pvtSkuFront=    1, pvtSkuBack=    2] is added to the translate table.
+Apr 05, 2017 11:38:20 AM orders.SkuLut <init>
+INFO: Entry ColorModelPair [pvtColor=     White, pvtModel=   SE] w/ SKU pair SkuPair [pvtSkuFront=    3, pvtSkuBack=    4] is added to the translate table.
+Apr 05, 2017 11:38:20 AM orders.SkuLut <init>
+INFO: Entry ColorModelPair [pvtColor=     White, pvtModel=  SES] w/ SKU pair SkuPair [pvtSkuFront=    5, pvtSkuBack=    6] is added to the translate table.
+Apr 05, 2017 11:38:20 AM orders.SkuLut <init>
+INFO: Entry ColorModelPair [pvtColor=     White, pvtModel=  SEL] w/ SKU pair SkuPair [pvtSkuFront=    7, pvtSkuBack=    8] is added to the translate table.
+Apr 05, 2017 11:38:20 AM orders.SkuLut <init>
+INFO: Entry ColorModelPair [pvtColor=     Beige, pvtModel=    S] w/ SKU pair SkuPair [pvtSkuFront=    9, pvtSkuBack=   10] is added to the translate table.
+Apr 05, 2017 11:38:20 AM orders.SkuLut <init>
+INFO: Entry ColorModelPair [pvtColor=     Beige, pvtModel=   SE] w/ SKU pair SkuPair [pvtSkuFront=   11, pvtSkuBack=   12] is added to the translate table.
+Apr 05, 2017 11:38:20 AM orders.SkuLut <init>
+INFO: Entry ColorModelPair [pvtColor=     Beige, pvtModel=  SES] w/ SKU pair SkuPair [pvtSkuFront=   13, pvtSkuBack=   14] is added to the translate table.
+Apr 05, 2017 11:38:20 AM orders.SkuLut <init>
+INFO: Entry ColorModelPair [pvtColor=     Beige, pvtModel=  SEL] w/ SKU pair SkuPair [pvtSkuFront=   15, pvtSkuBack=   16] is added to the translate table.
+Apr 05, 2017 11:38:20 AM orders.SkuLut <init>
+INFO: Entry ColorModelPair [pvtColor=       Red, pvtModel=    S] w/ SKU pair SkuPair [pvtSkuFront=   17, pvtSkuBack=   18] is added to the translate table.
+Apr 05, 2017 11:38:20 AM orders.SkuLut <init>
+INFO: Entry ColorModelPair [pvtColor=       Red, pvtModel=   SE] w/ SKU pair SkuPair [pvtSkuFront=   19, pvtSkuBack=   20] is added to the translate table.
+Apr 05, 2017 11:38:20 AM orders.SkuLut <init>
+INFO: Entry ColorModelPair [pvtColor=       Red, pvtModel=  SES] w/ SKU pair SkuPair [pvtSkuFront=   21, pvtSkuBack=   22] is added to the translate table.
+Apr 05, 2017 11:38:20 AM orders.SkuLut <init>
+INFO: Entry ColorModelPair [pvtColor=       Red, pvtModel=  SEL] w/ SKU pair SkuPair [pvtSkuFront=   23, pvtSkuBack=   24] is added to the translate table.
+Apr 05, 2017 11:38:20 AM orders.SkuLut <init>
+INFO: Entry ColorModelPair [pvtColor=     Green, pvtModel=    S] w/ SKU pair SkuPair [pvtSkuFront=   25, pvtSkuBack=   26] is added to the translate table.
+Apr 05, 2017 11:38:20 AM orders.SkuLut <init>
+INFO: Entry ColorModelPair [pvtColor=     Green, pvtModel=   SE] w/ SKU pair SkuPair [pvtSkuFront=   27, pvtSkuBack=   28] is added to the translate table.
+Apr 05, 2017 11:38:20 AM orders.SkuLut <init>
+INFO: Entry ColorModelPair [pvtColor=     Green, pvtModel=  SES] w/ SKU pair SkuPair [pvtSkuFront=   29, pvtSkuBack=   30] is added to the translate table.
+Apr 05, 2017 11:38:20 AM orders.SkuLut <init>
+INFO: Entry ColorModelPair [pvtColor=     Green, pvtModel=  SEL] w/ SKU pair SkuPair [pvtSkuFront=   31, pvtSkuBack=   32] is added to the translate table.
+Apr 05, 2017 11:38:20 AM orders.SkuLut <init>
+INFO: Entry ColorModelPair [pvtColor=      Blue, pvtModel=    S] w/ SKU pair SkuPair [pvtSkuFront=   33, pvtSkuBack=   34] is added to the translate table.
+Apr 05, 2017 11:38:20 AM orders.SkuLut <init>
+INFO: Entry ColorModelPair [pvtColor=      Blue, pvtModel=   SE] w/ SKU pair SkuPair [pvtSkuFront=   35, pvtSkuBack=   36] is added to the translate table.
+Apr 05, 2017 11:38:20 AM orders.SkuLut <init>
+INFO: Entry ColorModelPair [pvtColor=      Blue, pvtModel=  SES] w/ SKU pair SkuPair [pvtSkuFront=   37, pvtSkuBack=   38] is added to the translate table.
+Apr 05, 2017 11:38:20 AM orders.SkuLut <init>
+INFO: Entry ColorModelPair [pvtColor=      Blue, pvtModel=  SEL] w/ SKU pair SkuPair [pvtSkuFront=   39, pvtSkuBack=   40] is added to the translate table.
+Apr 05, 2017 11:38:20 AM orders.SkuLut <init>
+INFO: Entry ColorModelPair [pvtColor=     Black, pvtModel=    S] w/ SKU pair SkuPair [pvtSkuFront=   41, pvtSkuBack=   42] is added to the translate table.
+Apr 05, 2017 11:38:20 AM orders.SkuLut <init>
+INFO: Entry ColorModelPair [pvtColor=     Black, pvtModel=   SE] w/ SKU pair SkuPair [pvtSkuFront=   43, pvtSkuBack=   44] is added to the translate table.
+Apr 05, 2017 11:38:20 AM orders.SkuLut <init>
+INFO: Entry ColorModelPair [pvtColor=     Black, pvtModel=  SES] w/ SKU pair SkuPair [pvtSkuFront=   45, pvtSkuBack=   46] is added to the translate table.
+Apr 05, 2017 11:38:20 AM orders.SkuLut <init>
+INFO: Entry ColorModelPair [pvtColor=     Black, pvtModel=  SEL] w/ SKU pair SkuPair [pvtSkuFront=   47, pvtSkuBack=   48] is added to the translate table.
+Apr 05, 2017 11:38:20 AM orders.SkuLut <init>
+INFO: Entry ColorModelPair [pvtColor=     Birch, pvtModel=    S] w/ SKU pair SkuPair [pvtSkuFront=   49, pvtSkuBack=   50] is added to the translate table.
+Apr 05, 2017 11:38:20 AM orders.SkuLut <init>
+INFO: Entry ColorModelPair [pvtColor=     Birch, pvtModel=   SE] w/ SKU pair SkuPair [pvtSkuFront=   51, pvtSkuBack=   52] is added to the translate table.
+Apr 05, 2017 11:38:20 AM orders.SkuLut <init>
+INFO: Entry ColorModelPair [pvtColor=     Birch, pvtModel=  SES] w/ SKU pair SkuPair [pvtSkuFront=   53, pvtSkuBack=   54] is added to the translate table.
+Apr 05, 2017 11:38:20 AM orders.SkuLut <init>
+INFO: Entry ColorModelPair [pvtColor=     Birch, pvtModel=  SEL] w/ SKU pair SkuPair [pvtSkuFront=   55, pvtSkuBack=   56] is added to the translate table.
+Apr 05, 2017 11:38:20 AM orders.SkuLut <init>
+INFO: Entry ColorModelPair [pvtColor=      Grey, pvtModel=    S] w/ SKU pair SkuPair [pvtSkuFront=   57, pvtSkuBack=   58] is added to the translate table.
+Apr 05, 2017 11:38:20 AM orders.SkuLut <init>
+INFO: Entry ColorModelPair [pvtColor=      Grey, pvtModel=   SE] w/ SKU pair SkuPair [pvtSkuFront=   59, pvtSkuBack=   60] is added to the translate table.
+Apr 05, 2017 11:38:20 AM orders.SkuLut <init>
+INFO: Entry ColorModelPair [pvtColor=      Grey, pvtModel=  SES] w/ SKU pair SkuPair [pvtSkuFront=   61, pvtSkuBack=   62] is added to the translate table.
+Apr 05, 2017 11:38:20 AM orders.SkuLut <init>
+INFO: Entry ColorModelPair [pvtColor=      Grey, pvtModel=  SEL] w/ SKU pair SkuPair [pvtSkuFront=   63, pvtSkuBack=   64] is added to the translate table.
+Apr 05, 2017 11:38:20 AM orders.SkuLut <init>
+INFO: Entry ColorModelPair [pvtColor=      Gold, pvtModel=    S] w/ SKU pair SkuPair [pvtSkuFront=   65, pvtSkuBack=   66] is added to the translate table.
+Apr 05, 2017 11:38:20 AM orders.SkuLut <init>
+INFO: Entry ColorModelPair [pvtColor=      Gold, pvtModel=   SE] w/ SKU pair SkuPair [pvtSkuFront=   67, pvtSkuBack=   68] is added to the translate table.
+Apr 05, 2017 11:38:20 AM orders.SkuLut <init>
+INFO: Entry ColorModelPair [pvtColor=      Gold, pvtModel=  SES] w/ SKU pair SkuPair [pvtSkuFront=   69, pvtSkuBack=   70] is added to the translate table.
+Apr 05, 2017 11:38:20 AM orders.SkuLut <init>
+INFO: Entry ColorModelPair [pvtColor=      Gold, pvtModel=  SEL] w/ SKU pair SkuPair [pvtSkuFront=   71, pvtSkuBack=   72] is added to the translate table.
+Apr 05, 2017 11:38:20 AM orders.SkuLut <init>
+INFO: Entry ColorModelPair [pvtColor=       Tan, pvtModel=    S] w/ SKU pair SkuPair [pvtSkuFront=   73, pvtSkuBack=   74] is added to the translate table.
+Apr 05, 2017 11:38:20 AM orders.SkuLut <init>
+INFO: Entry ColorModelPair [pvtColor=       Tan, pvtModel=   SE] w/ SKU pair SkuPair [pvtSkuFront=   75, pvtSkuBack=   76] is added to the translate table.
+Apr 05, 2017 11:38:20 AM orders.SkuLut <init>
+INFO: Entry ColorModelPair [pvtColor=       Tan, pvtModel=  SES] w/ SKU pair SkuPair [pvtSkuFront=   77, pvtSkuBack=   78] is added to the translate table.
+Apr 05, 2017 11:38:20 AM orders.SkuLut <init>
+INFO: Entry ColorModelPair [pvtColor=       Tan, pvtModel=  SEL] w/ SKU pair SkuPair [pvtSkuFront=   79, pvtSkuBack=   80] is added to the translate table.
+Apr 05, 2017 11:38:20 AM orders.SkuLut <init>
+INFO: Entry ColorModelPair [pvtColor=  Graphite, pvtModel=    S] w/ SKU pair SkuPair [pvtSkuFront=   81, pvtSkuBack=   82] is added to the translate table.
+Apr 05, 2017 11:38:20 AM orders.SkuLut <init>
+INFO: Entry ColorModelPair [pvtColor=  Graphite, pvtModel=   SE] w/ SKU pair SkuPair [pvtSkuFront=   83, pvtSkuBack=   84] is added to the translate table.
+Apr 05, 2017 11:38:20 AM orders.SkuLut <init>
+INFO: Entry ColorModelPair [pvtColor=  Graphite, pvtModel=  SES] w/ SKU pair SkuPair [pvtSkuFront=   85, pvtSkuBack=   86] is added to the translate table.
+Apr 05, 2017 11:38:20 AM orders.SkuLut <init>
+INFO: Entry ColorModelPair [pvtColor=  Graphite, pvtModel=  SEL] w/ SKU pair SkuPair [pvtSkuFront=   87, pvtSkuBack=   88] is added to the translate table.
+Apr 05, 2017 11:38:20 AM orders.SkuLut <init>
+INFO: Entry ColorModelPair [pvtColor=    Silver, pvtModel=    S] w/ SKU pair SkuPair [pvtSkuFront=   89, pvtSkuBack=   90] is added to the translate table.
+Apr 05, 2017 11:38:20 AM orders.SkuLut <init>
+INFO: Entry ColorModelPair [pvtColor=    Silver, pvtModel=   SE] w/ SKU pair SkuPair [pvtSkuFront=   91, pvtSkuBack=   92] is added to the translate table.
+Apr 05, 2017 11:38:20 AM orders.SkuLut <init>
+INFO: Entry ColorModelPair [pvtColor=    Silver, pvtModel=  SES] w/ SKU pair SkuPair [pvtSkuFront=   93, pvtSkuBack=   94] is added to the translate table.
+Apr 05, 2017 11:38:20 AM orders.SkuLut <init>
+INFO: Entry ColorModelPair [pvtColor=    Silver, pvtModel=  SEL] w/ SKU pair SkuPair [pvtSkuFront=   95, pvtSkuBack=   96] is added to the translate table.

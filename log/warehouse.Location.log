@@ -1,0 +1,32 @@
+Apr 05, 2017 11:38:21 AM warehouse.Location decrStock
+INFO: Location[SKU=    4, Zone=  A, Aisle=  0, Rack=  0, Level=  3, stock= 29]'s stock has been reduced by 1 in response to picking request.
+Apr 05, 2017 11:38:21 AM warehouse.Location decrStock
+INFO: Location[SKU=    3, Zone=  A, Aisle=  0, Rack=  0, Level=  2, stock= 21]'s stock has been reduced by 1 in response to picking request.
+Apr 05, 2017 11:38:21 AM warehouse.Location decrStock
+INFO: Location[SKU=    4, Zone=  A, Aisle=  0, Rack=  0, Level=  3, stock= 28]'s stock has been reduced by 1 in response to picking request.
+Apr 05, 2017 11:38:21 AM warehouse.Location decrStock
+INFO: Location[SKU=    3, Zone=  A, Aisle=  0, Rack=  0, Level=  2, stock= 20]'s stock has been reduced by 1 in response to picking request.
+Apr 05, 2017 11:38:21 AM warehouse.Location decrStock
+INFO: Location[SKU=    2, Zone=  A, Aisle=  0, Rack=  0, Level=  1, stock= 21]'s stock has been reduced by 1 in response to picking request.
+Apr 05, 2017 11:38:21 AM warehouse.Location decrStock
+INFO: Location[SKU=    1, Zone=  A, Aisle=  0, Rack=  0, Level=  0, stock= 21]'s stock has been reduced by 1 in response to picking request.
+Apr 05, 2017 11:38:21 AM warehouse.Location decrStock
+INFO: Location[SKU=    2, Zone=  A, Aisle=  0, Rack=  0, Level=  1, stock= 20]'s stock has been reduced by 1 in response to picking request.
+Apr 05, 2017 11:38:21 AM warehouse.Location decrStock
+INFO: Location[SKU=    1, Zone=  A, Aisle=  0, Rack=  0, Level=  0, stock= 20]'s stock has been reduced by 1 in response to picking request.
+Apr 05, 2017 11:38:21 AM warehouse.Location decrStock
+INFO: Location[SKU=   12, Zone=  A, Aisle=  0, Rack=  2, Level=  3, stock= 19]'s stock has been reduced by 1 in response to picking request.
+Apr 05, 2017 11:38:21 AM warehouse.Location decrStock
+INFO: Location[SKU=   11, Zone=  A, Aisle=  0, Rack=  2, Level=  2, stock= 19]'s stock has been reduced by 1 in response to picking request.
+Apr 05, 2017 11:38:21 AM warehouse.Location decrStock
+INFO: Location[SKU=   12, Zone=  A, Aisle=  0, Rack=  2, Level=  3, stock= 18]'s stock has been reduced by 1 in response to picking request.
+Apr 05, 2017 11:38:21 AM warehouse.Location decrStock
+INFO: Location[SKU=   11, Zone=  A, Aisle=  0, Rack=  2, Level=  2, stock= 18]'s stock has been reduced by 1 in response to picking request.
+Apr 05, 2017 11:38:21 AM warehouse.Location decrStock
+INFO: Location[SKU=   10, Zone=  A, Aisle=  0, Rack=  2, Level=  1, stock= 19]'s stock has been reduced by 1 in response to picking request.
+Apr 05, 2017 11:38:21 AM warehouse.Location decrStock
+INFO: Location[SKU=    9, Zone=  A, Aisle=  0, Rack=  2, Level=  0, stock= 19]'s stock has been reduced by 1 in response to picking request.
+Apr 05, 2017 11:38:21 AM warehouse.Location decrStock
+INFO: Location[SKU=   10, Zone=  A, Aisle=  0, Rack=  2, Level=  1, stock= 18]'s stock has been reduced by 1 in response to picking request.
+Apr 05, 2017 11:38:21 AM warehouse.Location decrStock
+INFO: Location[SKU=    9, Zone=  A, Aisle=  0, Rack=  2, Level=  0, stock= 18]'s stock has been reduced by 1 in response to picking request.

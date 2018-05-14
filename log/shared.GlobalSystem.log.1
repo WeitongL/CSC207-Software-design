@@ -1,0 +1,919 @@
+Apr 01, 2017 11:02:13 PM shared.GlobalSystem executeEventFile
+INFO: New order has been created in response to line Order S White.
+Apr 01, 2017 11:02:13 PM shared.GlobalSystem executeEventFile
+INFO: New order has been created in response to line Order S White.
+Apr 01, 2017 11:02:13 PM shared.GlobalSystem executeEventFile
+INFO: New order has been created in response to line Order SE White.
+Apr 01, 2017 11:02:13 PM shared.GlobalSystem executeEventFile
+INFO: New order has been created in response to line Order SE White.
+Apr 01, 2017 11:02:13 PM shared.GlobalSystem executeEventFile
+INFO: A new Request [list=[1, 2, 1, 2, 3, 4, 3, 4], state=PREPICK, pvtThisId=0, pvtTraversalOrder=[4, 3, 4, 3, 2, 1, 2, 1]] is created.
+Apr 01, 2017 11:02:13 PM shared.GlobalSystem executeEventFile
+INFO: New picker has been created in response to line Picker Alice ready.
+Apr 01, 2017 11:02:13 PM shared.GlobalSystem executeEventFile
+INFO: New sequencer has been created in response to line Sequencer Sue ready.
+Apr 01, 2017 11:02:13 PM shared.GlobalSystem executeEventFile
+INFO: New loader has been created in response to line Loader Jack ready.
+Apr 01, 2017 11:02:13 PM shared.GlobalSystem executeEventFile
+INFO: New order has been created in response to line Order S White.
+Apr 01, 2017 11:02:13 PM shared.GlobalSystem executeEventFile
+INFO: New order has been created in response to line Order S White.
+Apr 01, 2017 11:02:13 PM shared.GlobalSystem executeEventFile
+INFO: New order has been created in response to line Order SE White.
+Apr 01, 2017 11:02:13 PM shared.GlobalSystem executeEventFile
+INFO: New order has been created in response to line Order SE White.
+Apr 01, 2017 11:02:13 PM shared.GlobalSystem executeEventFile
+INFO: A new Request [list=[1, 2, 1, 2, 3, 4, 3, 4], state=PREPICK, pvtThisId=0, pvtTraversalOrder=[4, 3, 4, 3, 2, 1, 2, 1]] is created.
+Apr 01, 2017 11:02:13 PM shared.GlobalSystem executeEventFile
+INFO: New order has been created in response to line Order S Beige.
+Apr 01, 2017 11:02:13 PM shared.GlobalSystem executeEventFile
+INFO: New order has been created in response to line Order S Beige.
+Apr 01, 2017 11:02:13 PM shared.GlobalSystem executeEventFile
+INFO: New order has been created in response to line Order SE Beige.
+Apr 01, 2017 11:02:13 PM shared.GlobalSystem executeEventFile
+INFO: New order has been created in response to line Order SE Beige.
+Apr 01, 2017 11:02:13 PM shared.GlobalSystem executeEventFile
+INFO: A new Request [list=[9, 10, 9, 10, 11, 12, 11, 12], state=PREPICK, pvtThisId=1, pvtTraversalOrder=[12, 11, 12, 11, 10, 9, 10, 9]] is created.
+Apr 01, 2017 11:02:13 PM shared.GlobalSystem executeEventFile
+INFO: New picker has been created in response to line Picker Alice ready.
+Apr 01, 2017 11:02:13 PM shared.GlobalSystem executeEventFile
+INFO: New picker has been created in response to line Picker Tommy ready.
+Apr 01, 2017 11:02:13 PM shared.GlobalSystem executeEventFile
+INFO: New sequencer has been created in response to line Sequencer Sue ready.
+Apr 01, 2017 11:02:13 PM shared.GlobalSystem executeEventFile
+INFO: New loader has been created in response to line Loader Jack ready.
+Apr 01, 2017 11:02:13 PM shared.GlobalSystem executeEventFile
+INFO: New sequencer has been created in response to line Sequencer Luo ready.
+Apr 01, 2017 11:02:13 PM shared.GlobalSystem executeEventFile
+INFO: New order has been created in response to line Order S White.
+Apr 01, 2017 11:02:13 PM shared.GlobalSystem executeEventFile
+INFO: New order has been created in response to line Order S White.
+Apr 01, 2017 11:02:13 PM shared.GlobalSystem executeEventFile
+INFO: New order has been created in response to line Order SE White.
+Apr 01, 2017 11:02:13 PM shared.GlobalSystem executeEventFile
+INFO: New order has been created in response to line Order SE White.
+Apr 01, 2017 11:02:13 PM shared.GlobalSystem executeEventFile
+INFO: A new Request [list=[1, 2, 1, 2, 3, 4, 3, 4], state=PREPICK, pvtThisId=0, pvtTraversalOrder=[4, 3, 4, 3, 2, 1, 2, 1]] is created.
+Apr 01, 2017 11:02:13 PM shared.GlobalSystem executeEventFile
+INFO: New picker has been created in response to line Picker Tommy ready.
+Apr 01, 2017 11:02:13 PM shared.GlobalSystem executeEventFile
+SEVERE: 
+exception.IncorrectSku: Worker [proName=     Tommy, proType=PICKER, proStatus=BUSY, proRequest=Request [list=[1, 2, 1, 2, 3, 4, 3, 4], state=PICK, pvtThisId=0, pvtTraversalOrder=[4, 3, 4, 3, 2, 1, 2, 1]], proRequestIter=4] is trying to pick up SKU 9 that does not match what is required: 4.
+	at picking.Picker.procFascia(Picker.java:94)
+	at shared.GlobalSystem.executeEventFile(GlobalSystem.java:119)
+	at shared.GlobalSystemTest.testGlobalSystem_order3(GlobalSystemTest.java:51)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:86)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:459)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:678)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:382)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:192)
+
+Apr 01, 2017 11:02:13 PM shared.GlobalSystem executeEventFile
+SEVERE: 
+exception.IncorrectSku: Worker [proName=     Tommy, proType=PICKER, proStatus=BUSY, proRequest=Request [list=[1, 2, 1, 2, 3, 4, 3, 4], state=PICK, pvtThisId=0, pvtTraversalOrder=[4, 3, 4, 3, 2, 1, 2, 1]], proRequestIter=4] is trying to pick up SKU 8 that does not match what is required: 4.
+	at picking.Picker.procFascia(Picker.java:94)
+	at shared.GlobalSystem.executeEventFile(GlobalSystem.java:119)
+	at shared.GlobalSystemTest.testGlobalSystem_order3(GlobalSystemTest.java:51)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:86)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:459)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:678)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:382)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:192)
+
+Apr 01, 2017 11:02:14 PM shared.GlobalSystem executeEventFile
+INFO: New sequencer has been created in response to line Sequencer Sue ready.
+Apr 01, 2017 11:02:14 PM shared.GlobalSystem executeEventFile
+INFO: New loader has been created in response to line Loader Jack ready.
+Apr 01, 2017 11:02:14 PM shared.GlobalSystem executeEventFile
+INFO: New order has been created in response to line Order S White.
+Apr 01, 2017 11:02:14 PM shared.GlobalSystem executeEventFile
+INFO: New order has been created in response to line Order S White.
+Apr 01, 2017 11:02:14 PM shared.GlobalSystem executeEventFile
+INFO: New order has been created in response to line Order SE White.
+Apr 01, 2017 11:02:14 PM shared.GlobalSystem executeEventFile
+INFO: New order has been created in response to line Order SE White.
+Apr 01, 2017 11:02:14 PM shared.GlobalSystem executeEventFile
+INFO: A new Request [list=[1, 2, 1, 2, 3, 4, 3, 4], state=PREPICK, pvtThisId=0, pvtTraversalOrder=[4, 3, 4, 3, 2, 1, 2, 1]] is created.
+Apr 01, 2017 11:02:14 PM shared.GlobalSystem executeEventFile
+INFO: New picker has been created in response to line Picker Alice ready.
+Apr 01, 2017 11:02:14 PM shared.GlobalSystem executeEventFile
+INFO: New sequencer has been created in response to line Sequencer Sue ready.
+Apr 01, 2017 11:02:14 PM shared.GlobalSystem executeEventFile
+INFO: New loader has been created in response to line Loader Jack ready.
+Apr 01, 2017 11:02:14 PM shared.GlobalSystem executeEventFile
+SEVERE: 
+exception.IncorrectSku: Worker [proName=      Jack, proType=LOADER, proStatus=BUSY, proRequest=Request [list=[1, 2, 1, 2, 3, 4, 3, 4], state=LOAD, pvtThisId=0, pvtTraversalOrder=[4, 3, 4, 3, 2, 1, 2, 1]], proRequestIter=4] is trying to load SKU 3 that does not match what is required: 4.
+	at loading.Loader.procFascia(Loader.java:58)
+	at shared.GlobalSystem.executeEventFile(GlobalSystem.java:174)
+	at shared.GlobalSystemTest.testGlobalSystem_order4(GlobalSystemTest.java:57)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:86)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:459)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:678)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:382)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:192)
+
+Apr 01, 2017 11:02:14 PM shared.GlobalSystem executeEventFile
+INFO: New picker has been created in response to line Picker Suki ready.
+Apr 01, 2017 11:02:14 PM shared.GlobalSystem executeEventFile
+INFO: New sequencer has been created in response to line Sequencer Luo ready.
+Apr 01, 2017 11:02:14 PM shared.GlobalSystem executeEventFile
+INFO: New order has been created in response to line Order SES White.
+Apr 01, 2017 11:02:14 PM shared.GlobalSystem executeEventFile
+INFO: New order has been created in response to line Order SES White.
+Apr 01, 2017 11:02:14 PM shared.GlobalSystem executeEventFile
+INFO: New order has been created in response to line Order SEL White.
+Apr 01, 2017 11:02:14 PM shared.GlobalSystem executeEventFile
+INFO: New order has been created in response to line Order SEL White.
+Apr 01, 2017 11:02:14 PM shared.GlobalSystem executeEventFile
+INFO: A new Request [list=[5, 6, 5, 6, 7, 8, 7, 8], state=PREPICK, pvtThisId=0, pvtTraversalOrder=[8, 7, 8, 7, 6, 5, 6, 5]] is created.
+Apr 01, 2017 11:02:14 PM shared.GlobalSystem executeEventFile
+INFO: New picker has been created in response to line Picker Tommy ready.
+Apr 01, 2017 11:02:14 PM shared.GlobalSystem executeEventFile
+INFO: New sequencer has been created in response to line Sequencer Luo ready.
+Apr 01, 2017 11:02:14 PM shared.GlobalSystem executeEventFile
+INFO: New loader has been created in response to line Loader Jack ready.
+Apr 01, 2017 11:02:14 PM shared.GlobalSystem executeEventFile
+INFO: New order has been created in response to line Order S Green.
+Apr 01, 2017 11:02:14 PM shared.GlobalSystem executeEventFile
+INFO: New order has been created in response to line Order S Green.
+Apr 01, 2017 11:02:14 PM shared.GlobalSystem executeEventFile
+INFO: New order has been created in response to line Order S Green.
+Apr 01, 2017 11:02:14 PM shared.GlobalSystem executeEventFile
+INFO: New order has been created in response to line Order S Green.
+Apr 01, 2017 11:02:14 PM shared.GlobalSystem executeEventFile
+INFO: A new Request [list=[25, 26, 25, 26, 25, 26, 25, 26], state=PREPICK, pvtThisId=1, pvtTraversalOrder=[26, 25, 26, 25, 26, 25, 26, 25]] is created.
+Apr 01, 2017 11:02:14 PM shared.GlobalSystem executeEventFile
+SEVERE: 
+exception.IncorrectSku: Worker [proName=       Luo, proType=SEQUENCER, proStatus=BUSY, proRequest=Request [list=[25, 26, 25, 26, 25, 26, 25, 26], state=SEQUENCE, pvtThisId=1, pvtTraversalOrder=[26, 25, 26, 25, 26, 25, 26, 25]], proRequestIter=25] is trying to sequence SKU 26 that does not match what is required: 25.
+	at sequencing.Sequencer.procFascia(Sequencer.java:57)
+	at shared.GlobalSystem.executeEventFile(GlobalSystem.java:149)
+	at shared.GlobalSystemTest.testGlobalSystem_order5(GlobalSystemTest.java:63)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:86)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:459)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:678)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:382)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:192)
+
+Apr 01, 2017 11:02:14 PM shared.GlobalSystem executeEventFile
+SEVERE: 
+exception.IncorrectWorkerStatus: Worker [proName=       Luo, proType=SEQUENCER, proStatus=IDLE, proRequest=null, proRequestIter=] is unable to pick SKU 25 at this time.
+	at sequencing.Sequencer.procFascia(Sequencer.java:51)
+	at shared.GlobalSystem.executeEventFile(GlobalSystem.java:149)
+	at shared.GlobalSystemTest.testGlobalSystem_order5(GlobalSystemTest.java:63)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:86)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:459)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:678)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:382)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:192)
+
+Apr 01, 2017 11:02:14 PM shared.GlobalSystem executeEventFile
+SEVERE: 
+exception.IncorrectWorkerStatus: Worker [proName=       Luo, proType=SEQUENCER, proStatus=IDLE, proRequest=null, proRequestIter=] is unable to pick SKU 26 at this time.
+	at sequencing.Sequencer.procFascia(Sequencer.java:51)
+	at shared.GlobalSystem.executeEventFile(GlobalSystem.java:149)
+	at shared.GlobalSystemTest.testGlobalSystem_order5(GlobalSystemTest.java:63)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:86)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:459)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:678)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:382)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:192)
+
+Apr 01, 2017 11:02:14 PM shared.GlobalSystem executeEventFile
+SEVERE: 
+exception.IncorrectWorkerStatus: Worker [proName=       Luo, proType=SEQUENCER, proStatus=IDLE, proRequest=null, proRequestIter=] is unable to pick SKU 25 at this time.
+	at sequencing.Sequencer.procFascia(Sequencer.java:51)
+	at shared.GlobalSystem.executeEventFile(GlobalSystem.java:149)
+	at shared.GlobalSystemTest.testGlobalSystem_order5(GlobalSystemTest.java:63)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:86)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:459)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:678)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:382)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:192)
+
+Apr 01, 2017 11:02:14 PM shared.GlobalSystem executeEventFile
+SEVERE: 
+exception.IncorrectWorkerStatus: Worker [proName=       Luo, proType=SEQUENCER, proStatus=IDLE, proRequest=null, proRequestIter=] is unable to pick SKU 26 at this time.
+	at sequencing.Sequencer.procFascia(Sequencer.java:51)
+	at shared.GlobalSystem.executeEventFile(GlobalSystem.java:149)
+	at shared.GlobalSystemTest.testGlobalSystem_order5(GlobalSystemTest.java:63)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:86)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:459)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:678)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:382)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:192)
+
+Apr 01, 2017 11:02:14 PM shared.GlobalSystem executeEventFile
+SEVERE: 
+exception.IncorrectWorkerStatus: Worker [proName=       Luo, proType=SEQUENCER, proStatus=IDLE, proRequest=null, proRequestIter=] is unable to pick SKU 25 at this time.
+	at sequencing.Sequencer.procFascia(Sequencer.java:51)
+	at shared.GlobalSystem.executeEventFile(GlobalSystem.java:149)
+	at shared.GlobalSystemTest.testGlobalSystem_order5(GlobalSystemTest.java:63)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:86)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:459)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:678)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:382)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:192)
+
+Apr 01, 2017 11:02:14 PM shared.GlobalSystem executeEventFile
+SEVERE: 
+exception.IncorrectWorkerStatus: Worker [proName=       Luo, proType=SEQUENCER, proStatus=IDLE, proRequest=null, proRequestIter=] is unable to pick SKU 26 at this time.
+	at sequencing.Sequencer.procFascia(Sequencer.java:51)
+	at shared.GlobalSystem.executeEventFile(GlobalSystem.java:149)
+	at shared.GlobalSystemTest.testGlobalSystem_order5(GlobalSystemTest.java:63)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:86)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:459)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:678)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:382)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:192)
+
+Apr 01, 2017 11:02:14 PM shared.GlobalSystem executeEventFile
+SEVERE: 
+exception.IncorrectWorkerStatus: Worker [proName=       Luo, proType=SEQUENCER, proStatus=IDLE, proRequest=null, proRequestIter=] is unable to pick SKU 25 at this time.
+	at sequencing.Sequencer.procFascia(Sequencer.java:51)
+	at shared.GlobalSystem.executeEventFile(GlobalSystem.java:149)
+	at shared.GlobalSystemTest.testGlobalSystem_order5(GlobalSystemTest.java:63)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:86)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:459)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:678)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:382)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:192)
+
+Apr 01, 2017 11:02:14 PM shared.GlobalSystem executeEventFile
+SEVERE: 
+exception.IncorrectWorkerStatus: Worker [proName=      Jack, proType=LOADER, proStatus=READY, proRequest=Request [list=[5, 6, 5, 6, 7, 8, 7, 8], state=COMPLETE, pvtThisId=0, pvtTraversalOrder=[8, 7, 8, 7, 6, 5, 6, 5]], proRequestIter=] is unable to handle the rescan request.
+	at loading.Loader.rescan(Loader.java:86)
+	at shared.GlobalSystem.executeEventFile(GlobalSystem.java:176)
+	at shared.GlobalSystemTest.testGlobalSystem_order5(GlobalSystemTest.java:63)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:86)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:459)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:678)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:382)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:192)
+
+Apr 01, 2017 11:02:14 PM shared.GlobalSystem executeEventFile
+SEVERE: 
+exception.IncorrectWorkerStatus: Worker [proName=      Jack, proType=LOADER, proStatus=READY, proRequest=Request [list=[5, 6, 5, 6, 7, 8, 7, 8], state=COMPLETE, pvtThisId=0, pvtTraversalOrder=[8, 7, 8, 7, 6, 5, 6, 5]], proRequestIter=] is unable to pick SKU 25 at this time.
+	at loading.Loader.procFascia(Loader.java:53)
+	at shared.GlobalSystem.executeEventFile(GlobalSystem.java:174)
+	at shared.GlobalSystemTest.testGlobalSystem_order5(GlobalSystemTest.java:63)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:86)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:459)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:678)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:382)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:192)
+
+Apr 01, 2017 11:02:14 PM shared.GlobalSystem executeEventFile
+SEVERE: 
+exception.IncorrectWorkerStatus: Worker [proName=      Jack, proType=LOADER, proStatus=READY, proRequest=Request [list=[5, 6, 5, 6, 7, 8, 7, 8], state=COMPLETE, pvtThisId=0, pvtTraversalOrder=[8, 7, 8, 7, 6, 5, 6, 5]], proRequestIter=] is unable to pick SKU 26 at this time.
+	at loading.Loader.procFascia(Loader.java:53)
+	at shared.GlobalSystem.executeEventFile(GlobalSystem.java:174)
+	at shared.GlobalSystemTest.testGlobalSystem_order5(GlobalSystemTest.java:63)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:86)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:459)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:678)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:382)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:192)
+
+Apr 01, 2017 11:02:14 PM shared.GlobalSystem executeEventFile
+SEVERE: 
+exception.IncorrectWorkerStatus: Worker [proName=      Jack, proType=LOADER, proStatus=READY, proRequest=Request [list=[5, 6, 5, 6, 7, 8, 7, 8], state=COMPLETE, pvtThisId=0, pvtTraversalOrder=[8, 7, 8, 7, 6, 5, 6, 5]], proRequestIter=] is unable to pick SKU 25 at this time.
+	at loading.Loader.procFascia(Loader.java:53)
+	at shared.GlobalSystem.executeEventFile(GlobalSystem.java:174)
+	at shared.GlobalSystemTest.testGlobalSystem_order5(GlobalSystemTest.java:63)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:86)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:459)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:678)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:382)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:192)
+
+Apr 01, 2017 11:02:14 PM shared.GlobalSystem executeEventFile
+SEVERE: 
+exception.IncorrectWorkerStatus: Worker [proName=      Jack, proType=LOADER, proStatus=READY, proRequest=Request [list=[5, 6, 5, 6, 7, 8, 7, 8], state=COMPLETE, pvtThisId=0, pvtTraversalOrder=[8, 7, 8, 7, 6, 5, 6, 5]], proRequestIter=] is unable to pick SKU 26 at this time.
+	at loading.Loader.procFascia(Loader.java:53)
+	at shared.GlobalSystem.executeEventFile(GlobalSystem.java:174)
+	at shared.GlobalSystemTest.testGlobalSystem_order5(GlobalSystemTest.java:63)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:86)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:459)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:678)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:382)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:192)
+
+Apr 01, 2017 11:02:14 PM shared.GlobalSystem executeEventFile
+SEVERE: 
+exception.IncorrectWorkerStatus: Worker [proName=      Jack, proType=LOADER, proStatus=READY, proRequest=Request [list=[5, 6, 5, 6, 7, 8, 7, 8], state=COMPLETE, pvtThisId=0, pvtTraversalOrder=[8, 7, 8, 7, 6, 5, 6, 5]], proRequestIter=] is unable to pick SKU 25 at this time.
+	at loading.Loader.procFascia(Loader.java:53)
+	at shared.GlobalSystem.executeEventFile(GlobalSystem.java:174)
+	at shared.GlobalSystemTest.testGlobalSystem_order5(GlobalSystemTest.java:63)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:86)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:459)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:678)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:382)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:192)
+
+Apr 01, 2017 11:02:14 PM shared.GlobalSystem executeEventFile
+SEVERE: 
+exception.IncorrectWorkerStatus: Worker [proName=      Jack, proType=LOADER, proStatus=READY, proRequest=Request [list=[5, 6, 5, 6, 7, 8, 7, 8], state=COMPLETE, pvtThisId=0, pvtTraversalOrder=[8, 7, 8, 7, 6, 5, 6, 5]], proRequestIter=] is unable to pick SKU 26 at this time.
+	at loading.Loader.procFascia(Loader.java:53)
+	at shared.GlobalSystem.executeEventFile(GlobalSystem.java:174)
+	at shared.GlobalSystemTest.testGlobalSystem_order5(GlobalSystemTest.java:63)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:86)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:459)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:678)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:382)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:192)
+
+Apr 01, 2017 11:02:14 PM shared.GlobalSystem executeEventFile
+SEVERE: 
+exception.IncorrectWorkerStatus: Worker [proName=      Jack, proType=LOADER, proStatus=READY, proRequest=Request [list=[5, 6, 5, 6, 7, 8, 7, 8], state=COMPLETE, pvtThisId=0, pvtTraversalOrder=[8, 7, 8, 7, 6, 5, 6, 5]], proRequestIter=] is unable to pick SKU 25 at this time.
+	at loading.Loader.procFascia(Loader.java:53)
+	at shared.GlobalSystem.executeEventFile(GlobalSystem.java:174)
+	at shared.GlobalSystemTest.testGlobalSystem_order5(GlobalSystemTest.java:63)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:86)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:459)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:678)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:382)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:192)
+
+Apr 01, 2017 11:02:14 PM shared.GlobalSystem executeEventFile
+SEVERE: 
+exception.IncorrectWorkerStatus: Worker [proName=      Jack, proType=LOADER, proStatus=READY, proRequest=Request [list=[5, 6, 5, 6, 7, 8, 7, 8], state=COMPLETE, pvtThisId=0, pvtTraversalOrder=[8, 7, 8, 7, 6, 5, 6, 5]], proRequestIter=] is unable to pick SKU 26 at this time.
+	at loading.Loader.procFascia(Loader.java:53)
+	at shared.GlobalSystem.executeEventFile(GlobalSystem.java:174)
+	at shared.GlobalSystemTest.testGlobalSystem_order5(GlobalSystemTest.java:63)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:86)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:459)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:678)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:382)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:192)
+
+Apr 01, 2017 11:02:14 PM shared.GlobalSystem executeEventFile
+INFO: ReplenishReq [pvtLocation=Location[SKU= null, Zone=  A, Aisle=  0, Rack=  1, Level=  0, stock= 30]] is handled by replenisher Replenisher [pvtName=Kate].
+Apr 01, 2017 11:02:14 PM shared.GlobalSystem executeEventFile
+INFO: ReplenishReq [pvtLocation=Location[SKU= null, Zone=  A, Aisle=  0, Rack=  1, Level=  0, stock= 30]] is handled by replenisher Replenisher [pvtName=Kate].
+Apr 01, 2017 11:02:14 PM shared.GlobalSystem executeEventFile
+WARNING: ReplenishReq [pvtLocation=Location[SKU= null, Zone=  A, Aisle=  0, Rack=  1, Level=  0, stock= 30]] does not belong to the outstanding replenish requests [ReplenishReq [pvtLocation=Location[SKU=   25, Zone=  B, Aisle=  0, Rack=  0, Level=  0, stock=  1]], ReplenishReq [pvtLocation=Location[SKU=   25, Zone=  B, Aisle=  0, Rack=  0, Level=  0, stock=  1]], ReplenishReq [pvtLocation=Location[SKU=   25, Zone=  B, Aisle=  0, Rack=  0, Level=  0, stock=  1]], ReplenishReq [pvtLocation=Location[SKU=   25, Zone=  B, Aisle=  0, Rack=  0, Level=  0, stock=  1]]].
+Apr 01, 2017 11:02:14 PM shared.GlobalSystem executeEventFile
+INFO: New order has been created in response to line Order S White.
+Apr 01, 2017 11:02:14 PM shared.GlobalSystem executeEventFile
+INFO: New order has been created in response to line Order S White.
+Apr 01, 2017 11:02:14 PM shared.GlobalSystem executeEventFile
+INFO: New order has been created in response to line Order SE White.
+Apr 01, 2017 11:02:14 PM shared.GlobalSystem executeEventFile
+INFO: New order has been created in response to line Order SE White.
+Apr 01, 2017 11:02:14 PM shared.GlobalSystem executeEventFile
+INFO: A new Request [list=[1, 2, 1, 2, 3, 4, 3, 4], state=PREPICK, pvtThisId=0, pvtTraversalOrder=[4, 3, 4, 3, 2, 1, 2, 1]] is created.
+Apr 01, 2017 11:02:14 PM shared.GlobalSystem executeEventFile
+INFO: New picker has been created in response to line Picker Tommy ready.
+Apr 01, 2017 11:02:14 PM shared.GlobalSystem executeEventFile
+INFO: New sequencer has been created in response to line Sequencer Sue ready.
+Apr 01, 2017 11:02:14 PM shared.GlobalSystem executeEventFile
+SEVERE: 
+exception.IncorrectSku: Worker [proName=       Sue, proType=SEQUENCER, proStatus=BUSY, proRequest=Request [list=[1, 2, 1, 2, 3, 4, 3, 4], state=SEQUENCE, pvtThisId=0, pvtTraversalOrder=[4, 3, 4, 3, 2, 1, 2, 1]], proRequestIter=4] is trying to sequence SKU 10 that does not match what is required: 4.
+	at sequencing.Sequencer.procFascia(Sequencer.java:57)
+	at shared.GlobalSystem.executeEventFile(GlobalSystem.java:149)
+	at shared.GlobalSystemTest.testGlobalSystem_order6(GlobalSystemTest.java:69)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:86)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:459)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:678)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:382)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:192)
+
+Apr 01, 2017 11:02:14 PM shared.GlobalSystem executeEventFile
+INFO: New picker has been created in response to line Picker Suki ready.
+Apr 01, 2017 11:02:14 PM shared.GlobalSystem executeEventFile
+INFO: New loader has been created in response to line Loader Jack ready.
+Apr 01, 2017 11:02:14 PM shared.GlobalSystem executeEventFile
+INFO: New order has been created in response to line Order S White.
+Apr 01, 2017 11:02:14 PM shared.GlobalSystem executeEventFile
+INFO: New order has been created in response to line Order S White.
+Apr 01, 2017 11:02:14 PM shared.GlobalSystem executeEventFile
+INFO: New order has been created in response to line Order SE White.
+Apr 01, 2017 11:02:14 PM shared.GlobalSystem executeEventFile
+INFO: New order has been created in response to line Order SE White.
+Apr 01, 2017 11:02:14 PM shared.GlobalSystem executeEventFile
+INFO: A new Request [list=[1, 2, 1, 2, 3, 4, 3, 4], state=PREPICK, pvtThisId=0, pvtTraversalOrder=[4, 3, 4, 3, 2, 1, 2, 1]] is created.
+Apr 01, 2017 11:02:14 PM shared.GlobalSystem executeEventFile
+INFO: New picker has been created in response to line Picker Alice ready.
+Apr 01, 2017 11:02:14 PM shared.GlobalSystem executeEventFile
+INFO: New sequencer has been created in response to line Sequencer Sue ready.
+Apr 01, 2017 11:02:14 PM shared.GlobalSystem executeEventFile
+INFO: New loader has been created in response to line Loader Jack ready.
+Apr 01, 2017 11:02:14 PM shared.GlobalSystem executeEventFile
+INFO: New order has been created in response to line Order UndefModel UndefColor.
+Apr 01, 2017 11:02:14 PM shared.GlobalSystem executeEventFile
+WARNING: 
+exception.UndefColorModelPair: Cannot find the ColorModelPair [pvtColor=UndefColor, pvtModel=UndefModel] in the traversal table.
+	at orders.SkuLut.translate(SkuLut.java:114)
+	at orders.Order.<init>(Order.java:56)
+	at shared.GlobalSystem.executeEventFile(GlobalSystem.java:94)
+	at shared.GlobalSystemTest.testGlobalSystem_order8(GlobalSystemTest.java:81)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:86)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:459)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:678)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:382)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:192)
+
+Apr 01, 2017 11:02:14 PM shared.GlobalSystem executeEventFile
+INFO: New order has been created in response to line Order S White.
+Apr 01, 2017 11:02:14 PM shared.GlobalSystem executeEventFile
+INFO: New order has been created in response to line Order S White.
+Apr 01, 2017 11:02:14 PM shared.GlobalSystem executeEventFile
+INFO: New order has been created in response to line Order SE White.
+Apr 01, 2017 11:02:14 PM shared.GlobalSystem executeEventFile
+INFO: New order has been created in response to line Order SE White.
+Apr 01, 2017 11:02:14 PM shared.GlobalSystem executeEventFile
+INFO: A new Request [list=[1, 2, 1, 2, 3, 4, 3, 4], state=PREPICK, pvtThisId=0, pvtTraversalOrder=[4, 3, 4, 3, 2, 1, 2, 1]] is created.
+Apr 01, 2017 11:02:14 PM shared.GlobalSystem executeEventFile
+INFO: New picker has been created in response to line Picker Alice ready.
+Apr 01, 2017 11:02:14 PM shared.GlobalSystem executeEventFile
+SEVERE: 
+exception.IncorrectWorkerStatus: Worker [proName=     Alice, proType=PICKER, proStatus=BUSY, proRequest=Request [list=[1, 2, 1, 2, 3, 4, 3, 4], state=PICK, pvtThisId=0, pvtTraversalOrder=[4, 3, 4, 3, 2, 1, 2, 1]], proRequestIter=2] is unable to have its status set to READY.
+	at shared.Worker.setReady(Worker.java:46)
+	at shared.GlobalSystem.executeEventFile(GlobalSystem.java:117)
+	at shared.GlobalSystemTest.testGlobalSystem_order8(GlobalSystemTest.java:81)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:86)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:459)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:678)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:382)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:192)
+
+Apr 01, 2017 11:02:14 PM shared.GlobalSystem executeEventFile
+WARNING: ReplenishReq [pvtLocation=Location[SKU= null, Zone=  A, Aisle=  0, Rack=  1, Level=  1, stock= 30]] does not belong to the outstanding replenish requests [ReplenishReq [pvtLocation=Location[SKU=    3, Zone=  A, Aisle=  0, Rack=  0, Level=  2, stock=  4]], ReplenishReq [pvtLocation=Location[SKU=    3, Zone=  A, Aisle=  0, Rack=  0, Level=  2, stock=  4]], ReplenishReq [pvtLocation=Location[SKU=    2, Zone=  A, Aisle=  0, Rack=  0, Level=  1, stock=  3]], ReplenishReq [pvtLocation=Location[SKU=    1, Zone=  A, Aisle=  0, Rack=  0, Level=  0, stock=  4]], ReplenishReq [pvtLocation=Location[SKU=    2, Zone=  A, Aisle=  0, Rack=  0, Level=  1, stock=  3]], ReplenishReq [pvtLocation=Location[SKU=    1, Zone=  A, Aisle=  0, Rack=  0, Level=  0, stock=  4]]].
+Apr 01, 2017 11:02:14 PM shared.GlobalSystem executeEventFile
+INFO: New sequencer has been created in response to line Sequencer Sue ready.
+Apr 01, 2017 11:02:14 PM shared.GlobalSystem executeEventFile
+SEVERE: 
+exception.IncorrectWorkerStatus: Worker [proName=       Sue, proType=SEQUENCER, proStatus=BUSY, proRequest=Request [list=[1, 2, 1, 2, 3, 4, 3, 4], state=SEQUENCE, pvtThisId=0, pvtTraversalOrder=[4, 3, 4, 3, 2, 1, 2, 1]], proRequestIter=3] is unable to have its status set to READY.
+	at shared.Worker.setReady(Worker.java:46)
+	at shared.GlobalSystem.executeEventFile(GlobalSystem.java:147)
+	at shared.GlobalSystemTest.testGlobalSystem_order8(GlobalSystemTest.java:81)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:86)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:459)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:678)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:382)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:192)
+
+Apr 01, 2017 11:02:14 PM shared.GlobalSystem executeEventFile
+INFO: New loader has been created in response to line Loader Jack ready.
+Apr 01, 2017 11:02:14 PM shared.GlobalSystem executeEventFile
+SEVERE: 
+exception.IncorrectWorkerStatus: Worker [proName=      Jack, proType=LOADER, proStatus=BUSY, proRequest=Request [list=[1, 2, 1, 2, 3, 4, 3, 4], state=LOAD, pvtThisId=0, pvtTraversalOrder=[4, 3, 4, 3, 2, 1, 2, 1]], proRequestIter=3] is unable to have its status set to READY.
+	at shared.Worker.setReady(Worker.java:46)
+	at shared.GlobalSystem.executeEventFile(GlobalSystem.java:172)
+	at shared.GlobalSystemTest.testGlobalSystem_order8(GlobalSystemTest.java:81)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:86)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:459)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:678)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:382)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:192)
+

@@ -1,0 +1,70 @@
+// Assume Sequencer scans in the right order but actually fascias are not in order.
+// Expect Loader to tell the system to generate a new picking request.
+Order S White
+Order S White
+Order SE White
+Order SE White
+Picker Alice ready
+Picker Alice picks 4
+Picker Alice picks 3
+Picker Alice picks 4
+Picker Alice picks 3
+Picker Alice picks 2
+Picker Alice picks 1
+Picker Alice picks 2
+Picker Alice picks 1
+Picker Alice to Marshaling
+Sequencer Sue ready
+Sequencer Sue rescans
+Sequencer Sue sequences 1
+Sequencer Sue sequences 2
+Sequencer Sue sequences 1
+Sequencer Sue sequences 2
+Sequencer Sue sequences 3
+Sequencer Sue sequences 4
+Sequencer Sue sequences 3
+Sequencer Sue sequences 4
+Loader Jack ready
+Loader Jack rescans
+Loader Jack loads 1
+Loader Jack loads 2
+Loader Jack loads 1
+Loader Jack loads 2
+Loader Jack loads 3
+Loader Jack loads 4
+Loader Jack rescans
+Loader Jack loads 1
+Loader Jack loads 2
+Loader Jack loads 1
+Loader Jack loads 2
+Loader Jack loads 3
+Loader Jack loads 3
+Picker Suki ready
+Picker Suki picks 4
+Picker Suki picks 3
+Picker Suki picks 4
+Picker Suki picks 3
+Picker Suki picks 2
+Picker Suki picks 1
+Picker Suki picks 2
+Picker Suki picks 1
+Sequencer Luo ready
+Sequencer Luo rescans
+Sequencer Luo sequences 1
+Sequencer Luo sequences 2
+Sequencer Luo sequences 1
+Sequencer Luo sequences 2
+Sequencer Luo sequences 3
+Sequencer Luo sequences 4
+Sequencer Luo sequences 3
+Sequencer Luo sequences 4
+Loader Jack ready
+Loader Jack rescans
+Loader Jack loads 1
+Loader Jack loads 2
+Loader Jack loads 1
+Loader Jack loads 2
+Loader Jack loads 3
+Loader Jack loads 4
+Loader Jack loads 3
+Loader Jack loads 4

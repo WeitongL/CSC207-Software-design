@@ -1,0 +1,72 @@
+// Replenish event is triggered. 
+// Expect a replenish request to be generated.
+Order SES White
+Order SES White
+Order SEL White
+Order SEL White
+Picker Tommy ready
+Picker Tommy picks 8
+Picker Tommy picks 7
+Picker Tommy picks 8
+Picker Tommy picks 7
+Picker Tommy picks 6
+Picker Tommy picks 5
+Picker Tommy picks 6
+Picker Tommy picks 5
+Picker Tommy to Marshaling
+Sequencer Luo ready
+Sequencer Luo rescans
+Sequencer Luo sequences 5
+Sequencer Luo sequences 6
+Sequencer Luo sequences 5
+Sequencer Luo sequences 6
+Sequencer Luo sequences 7
+Sequencer Luo sequences 8
+Sequencer Luo sequences 7
+Sequencer Luo sequences 8
+Loader Jack ready
+Loader Jack rescans
+Loader Jack loads 5
+Loader Jack loads 6
+Loader Jack loads 5
+Loader Jack loads 6
+Loader Jack loads 7
+Loader Jack loads 8
+Loader Jack loads 7
+Loader Jack loads 8
+Order S Green
+Order S Green
+Order S Green
+Order S Green
+Picker Tommy ready
+Picker Tommy picks 26
+Picker Tommy picks 25
+Picker Tommy picks 26
+Picker Tommy picks 25
+Picker Tommy picks 26
+Picker Tommy picks 25
+Picker Tommy picks 26
+Picker Tommy picks 25
+Picker Tommy to Marshaling
+Sequencer Luo ready
+Sequencer Luo rescans
+Sequencer Luo sequences 26
+Sequencer Luo sequences 25
+Sequencer Luo sequences 26
+Sequencer Luo sequences 25
+Sequencer Luo sequences 26
+Sequencer Luo sequences 25
+Sequencer Luo sequences 26
+Sequencer Luo sequences 25
+Loader Jack ready
+Loader Jack rescans
+Loader Jack loads 25
+Loader Jack loads 26
+Loader Jack loads 25
+Loader Jack loads 26
+Loader Jack loads 25
+Loader Jack loads 26
+Loader Jack loads 25
+Loader Jack loads 26
+Replenisher Kate replenishes A 0 1 0
+Replenisher Kate replenishes A 0 1 0
